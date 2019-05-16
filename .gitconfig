@@ -31,3 +31,5 @@
 	editor = 'C:/Program Files/Sublime Text 3/sublime_text.exe' -w
 [merge]
 	tool = meld
+[clean]
+    requireForce = false
