@@ -33,3 +33,5 @@
 	tool = meld
 [clean]
     requireForce = false
+[help]
+    autocorrect = -1
